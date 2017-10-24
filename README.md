@@ -6,3 +6,4 @@
 * http://www.tableaulearners.com/2016/tableau-certification-preparation-guide-desktop-9-qualified-associate/
 * http://www.tableaulearners.com/category/home/
 * https://intellipaat.com/tutorial/tableau-tutorial/
+* http://tableauonlinetraining1.blogspot.com/
